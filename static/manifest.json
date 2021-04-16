@@ -1,0 +1,13 @@
+{
+	"name": "sassy-sapper-starter",
+	"short_name": "sss",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "favicon.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	]
+}
