@@ -4,8 +4,8 @@ Minimal Sapper boilerplate using Rollup and Sass. Includes sensible base styles 
 
 Other features:
 
-- TailwindCSS colors as Sass variables (+ the useful utility classes)
-- Markdown `.md` files to generate wordy pages. See `/routes/notes`
+- TailwindCSS colors as Sass variables (+ some useful utility classes)
+- Markdown `.md` files to generate wordy pages at `/routes/notes`
 - Basic menu button
 
 
