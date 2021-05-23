@@ -8,7 +8,6 @@
   on:click={() => open = !open}
   >
   <div class="bar"></div>
-  <!-- <div class="bar"></div> -->
   <div class="bar"></div>
   <div class="bar"></div>
 </div>
